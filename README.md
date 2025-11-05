@@ -9,8 +9,7 @@
 
 ---
 
-## 🌍 Live Demo
-🔗 [Click here to try the app](https://chat-app-cvjw.onrender.com/)
+
 ---
 
 ## 🔎 Project Overview
